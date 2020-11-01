@@ -1,0 +1,599 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+    #oneLine {
+        width: 53px;
+    }
+
+    #twoLine {
+        width: 45px;
+        left: 312px;
+    }
+
+    .line_All {
+        width: 40px;
+    }
+
+    #Line1,
+    #Line2,
+    #Line3,
+    #Line4 {
+        margin-right: -42px;
+    }
+
+    .dscr1 {
+        left: -43px;
+    }
+
+    .dscr2 {
+        left: -5px;
+    }
+
+    .dscr3 {
+        left: 7px;
+    }
+
+    .dscr4 {
+        left: 12px;
+    }
+
+    .dsk_r5,
+    .dsk_r6,
+    .dsk_r7,
+    .dsk_r8,
+    .dsk_r9 {
+        margin-left: -30px;
+    }
+
+    .dscr5 {
+        right: -7px;
+    }
+
+    .dscr6 {
+        right: -3px;
+    }
+
+    .dscr7 {
+        right: 7px;
+    }
+
+    .dscr8 {
+        right: 33px;
+    }
+
+    .dscr9 {
+        right: 78px;
+    }
+
+    .dsk {
+        margin-right: -3px;
+    }
+
+    .vert_line {
+        margin-left: 25px;
+    }
+}
+
+@media (min-width: 850px) and (max-width: 991px) {
+
+    #oneLine,
+    #twoLine {
+        display: none;
+    }
+
+    .disk {
+        width: 200px;
+        height: 200px;
+    }
+
+    .disk-big {
+        width: 250px;
+        height: 250px;
+        margin-left: -18px;
+    }
+
+    #Line5,
+    #Line6,
+    #Line7,
+    #Line8,
+    #Line9 {
+        margin-left: -35px;
+    }
+
+    .line_All {
+        width: 38px;
+    }
+
+    .dsk {
+        margin-right: -18px;
+    }
+
+    .dscr1,
+    .dscr5 {
+        top: 120px;
+    }
+
+    .dscr2,
+    .dscr6 {
+        top: 440px;
+    }
+
+    .dscr3,
+    .dscr7 {
+        top: 760px;
+    }
+
+    .dscr4,
+    .dscr8 {
+        top: 1080px;
+    }
+
+    .dscr9 {
+        top: 1405px;
+        right: 83px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 849px) {
+
+    #oneLine,
+    #twoLine {
+        display: none;
+    }
+
+    .disk,
+    .disk-big {
+        border: none;
+    }
+
+    .lin {
+        display: flex;
+        align-items: flex-end;
+        margin-left: -49px;
+    }
+
+    .disk-big {
+        margin-left: -26px;
+    }
+
+    .line_All {
+        display: none;
+    }
+
+    .dscr1,
+    .dscr5 {
+        top: 120px;
+    }
+
+    .dscr2,
+    .dscr6 {
+        top: 440px;
+    }
+
+    .dscr3,
+    .dscr7 {
+        top: 760px;
+    }
+
+    .dscr4,
+    .dscr8 {
+        top: 1080px;
+    }
+
+    .dscr9 {
+        top: 1405px;
+        right: 83px;
+    }
+
+    .popup {
+        width: 700px;
+    }
+}
+
+@media (min-width: 388px) and (max-width: 767px) {
+    .header-contacts_phone {
+        font-size: 14px;
+    }
+
+    .header-contacts_button {
+        font-size: 10px;
+    }
+
+    #oneLine,
+    #twoLine {
+        display: none;
+    }
+
+    .disk,
+    .disk-big,
+    .all {
+        border: none;
+        height: auto;
+    }
+
+    .lin {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .bt_sm_1 {
+        top: -45px;
+    }
+
+    .bt_sm1 {
+        top: -10px;
+        left: -60px;
+    }
+
+    .bt_sm_2 {
+        top: -20px;
+    }
+
+    .bt_sm2 {
+        margin-left: -90px;
+    }
+
+    .bt_sm_3 {
+        top: -15px;
+    }
+
+    .bt_sm3 {
+        left: -60px;
+    }
+
+    .what {
+        padding-bottom: 20px;
+    }
+
+    .line_All {
+        display: none;
+    }
+
+    .vert_line {
+        display: none;
+    }
+
+    .tab1 {
+        display: inline
+    }
+
+    .dscr5 {
+        top: 25px;
+        left: -215px;
+        width: 225px;
+        text-align: center;
+    }
+
+    .dscr1 {
+        top: 10px;
+        left: 150px;
+        width: 185px;
+        text-align: center;
+    }
+
+    .dscr6 {
+        left: -210px;
+        width: 235px;
+        text-align: center;
+    }
+
+    .dscr2 {
+        top: 310px;
+        left: 125px;
+        width: 225px;
+        text-align: center;
+    }
+
+    .dscr7 {
+        width: 200px;
+        left: -180px;
+        text-align: center;
+    }
+
+    .dscr3 {
+        top: 635px;
+        left: 140px;
+        width: 200px;
+        text-align: center;
+    }
+
+    .dscr8 {
+        top: 980px;
+        width: 200px;
+        left: -200px;
+        text-align: center;
+    }
+
+    .dscr4 {
+        top: 955px;
+        left: 140px;
+        width: 200px;
+        text-align: center;
+    }
+
+    .dscr9 {
+        width: 200px;
+        left: -200px;
+        text-align: center;
+    }
+
+    .offer {
+        top: -210px;
+    }
+
+    .one,
+    .three {
+        width: 230px;
+        margin-left: -40px;
+    }
+
+    .two,
+    .four {
+        width: 200px;
+        margin-left: -85px;
+    }
+
+    .lef {
+        margin-left: -85px;
+    }
+
+    .example {
+        margin-top: -325px;
+    }
+
+    .examples {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .flow {
+        left: 3%;
+    }
+
+    .ex_img2 {
+        margin-top: 60px;
+    }
+
+    .bt2 {
+        margin-top: 30px;
+    }
+
+    .name {
+        display: none;
+    }
+
+    .btns {
+        margin-bottom: 20px;
+    }
+
+    .popup_2,
+    .popup_222 {
+        width: 350px;
+    }
+
+    .popup-close_2 {
+        right: 185px;
+    }
+
+    .prise-form {
+        margin-left: 35px;
+    }
+
+    .popup {
+        width: 350px;
+    }
+
+    .popup-form-header {
+        font-size: 25px;
+    }
+
+    .popup-form_input {
+        margin-left: -73px;
+        width: 320px;
+    }
+
+    .popup-form_btn {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+
+}
+
+@media (min-width: 320px) and (max-width: 387px) {
+    .header-contacts_phone {
+        font-size: 10px;
+    }
+
+    .header-contacts_button {
+        font-size: 8px;
+    }
+
+    .header-contacts {
+        margin-right: 40px;
+    }
+
+    #oneLine,
+    #twoLine {
+        display: none;
+    }
+
+    .disk,
+    .disk-big,
+    .all {
+        border: none;
+        height: auto;
+    }
+
+    .lin {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .bt_sm_1 {
+        top: -45px;
+    }
+
+    .bt_sm1 {
+        top: -10px;
+        left: -60px;
+    }
+
+    .bt_sm_2 {
+        top: -20px;
+    }
+
+    .bt_sm2 {
+        margin-left: -90px;
+    }
+
+    .bt_sm_3 {
+        top: -15px;
+    }
+
+    .bt_sm3 {
+        left: -60px;
+    }
+
+    .what {
+        padding-bottom: 20px;
+    }
+
+    .line_All {
+        display: none;
+    }
+
+    .vert_line {
+        display: none;
+    }
+
+    .tab1 {
+        display: inline
+    }
+
+    .dscr5 {
+        font-size: 15px;
+        top: 25px;
+        left: -180px;
+        width: 205px;
+        text-align: center;
+    }
+
+    .dscr1 {
+        font-size: 15px;
+        top: 5px;
+        left: 127px;
+        width: 155px;
+        text-align: center;
+    }
+
+    .dscr6 {
+        font-size: 15px;
+        left: -210px;
+        width: 225px;
+        text-align: center;
+    }
+
+    .dscr2 {
+        font-size: 15px;
+        top: 320px;
+        left: 140px;
+        width: 145px;
+        text-align: center;
+    }
+
+    .dscr7 {
+        font-size: 15px;
+        width: 200px;
+        left: -180px;
+        text-align: center;
+    }
+
+    .dscr3 {
+        font-size: 15px;
+        top: 640px;
+        left: 140px;
+        width: 145px;
+        text-align: center;
+    }
+
+    .dscr8 {
+        font-size: 15px;
+        top: 980px;
+        width: 200px;
+        left: -175px;
+        text-align: center;
+    }
+
+    .dscr4 {
+        font-size: 15px;
+        top: 965px;
+        left: 122px;
+        width: 185px;
+        text-align: center;
+    }
+
+    .dscr9 {
+        font-size: 15px;
+        width: 175px;
+        left: -175px;
+        text-align: center;
+    }
+
+    .example {
+        margin-top: -150px;
+    }
+
+    .examples {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .flow {
+        left: 3%;
+    }
+
+    .ex_img2 {
+        margin-top: 60px;
+    }
+
+    .name {
+        display: none;
+    }
+
+    .btns {
+        margin-bottom: 10px;
+    }
+
+    .popup_2,
+    .popup_222 {
+        width: 300px;
+    }
+
+    .bt2 {
+        margin-top: 30px;
+    }
+
+    .popup {
+        width: 90%;
+    }
+
+    .popup-form-header {
+        font-size: 23px;
+    }
+
+    .popup-form_input {
+        margin-left: -70px;
+        width: 300px;
+    }
+
+    .popup-form_btn {
+        margin-left: -10px;
+        margin-top: 10px;
+    }
+
+    .prise-form {
+        margin-left: 45px;
+    }
+
+    .popup-close_2 {
+        right: 210px;
+    }
+}
